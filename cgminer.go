@@ -1,4 +1,4 @@
-package cgminer
+package minerstats
 
 import (
 	"fmt"
